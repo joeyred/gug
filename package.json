@@ -1,0 +1,22 @@
+{
+  "name": "gug",
+  "version": "0.0.0",
+  "description": "Static site builder powered by gulp with pug templating.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pug",
+    "gulp",
+    "static",
+    "site",
+    "generator"
+  ],
+  "author": "Joey Hayes",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.7.0",
+    "object-assign": "^4.1.0"
+  }
+}
