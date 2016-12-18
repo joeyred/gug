@@ -1,7 +1,7 @@
 {
   "name": "gug",
-  "version": "0.0.0",
-  "description": "Static site builder powered by gulp with pug templating.",
+  "version": "0.1.0",
+  "description": "Static site builder powered by gulp with pug templating. Currently only handles data to be passed to the pug compiler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
