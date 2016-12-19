@@ -14,7 +14,7 @@
     "generator"
   ],
   "author": "Joey Hayes",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "js-yaml": "^3.7.0",
     "object-assign": "^4.1.0"
@@ -24,6 +24,6 @@
     "url": "https://github.com/joeyred/gug.git"
   },
   "bugs": {
-    "url": "https://github.com/joeyred/gug/issues",
+    "url": "https://github.com/joeyred/gug/issues"
   }
 }
